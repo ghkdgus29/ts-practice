@@ -1,0 +1,11 @@
+let num1 = 123;
+let num2 = -123;
+let num3 = Infinity;
+let num4 = NaN;
+let str1 = "hello";
+let bool1 = true;
+let null1 = null;
+let unde1 = undefined;
+let numA = 10;
+let boolA = true;
+export {};
